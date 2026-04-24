@@ -4,6 +4,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+if OPENAI_API_KEY is None:
+    try:
+        import streamlit as st
+        OPENAI_API_KEY = st.secrets.get("OPENAI_API_KEY")
+    except Exception:
+        pass
 CLAIM_EXTRACTION_MODEL = "gpt-4o"
 
 # NLI Models
