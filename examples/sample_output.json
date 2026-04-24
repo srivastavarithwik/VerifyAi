@@ -1,0 +1,163 @@
+{
+  "original_text": "In the landmark case of Miranda v. Arizona (1966), the Supreme Court established that law enforcement must inform suspects of their constitutional rights before conducting custodial interrogation. This principle was further reinforced in Thompson v. Western Medical Center (2019), where the Ninth Circuit held that patient consent requirements in federal healthcare facilities must follow analogous disclosure standards. The Court in Brown v. Board of Education (1954) unanimously declared that racial segregation in public schools violated the Equal Protection Clause of the Fourteenth Amendment. More recently, in Henderson v. Pacific Healthcare Group (2021), the Seventh Circuit established a three-part test for evaluating informed consent claims in telemedicine settings, requiring documented verbal confirmation, written acknowledgment, and digital timestamp verification. Statistical analysis from the Stanford RegLab found that approximately 33% of AI-generated legal research contains at least one hallucinated citation.",
+  "claims": [
+    {
+      "claim_id": "claim_1",
+      "claim_text": "Miranda v. Arizona (1966) is a real legal case decided by the Supreme Court",
+      "source_sentence": "In the landmark case of Miranda v. Arizona (1966), the Supreme Court established that law enforcement must inform suspects of their constitutional rights before conducting custodial interrogation.",
+      "verdict": "INSUFFICIENT_EVIDENCE",
+      "faithfulness_score": 0.0,
+      "best_evidence": {
+        "text": "",
+        "url": "",
+        "entailment": 0.0
+      },
+      "citation_check": "FOUND",
+      "citation_override": false,
+      "nli_details": []
+    },
+    {
+      "claim_id": "claim_2",
+      "claim_text": "In Miranda v. Arizona (1966), the Supreme Court established that law enforcement must inform suspects of their constitutional rights before conducting custodial interrogation",
+      "source_sentence": "In the landmark case of Miranda v. Arizona (1966), the Supreme Court established that law enforcement must inform suspects of their constitutional rights before conducting custodial interrogation.",
+      "verdict": "INSUFFICIENT_EVIDENCE",
+      "faithfulness_score": 0.0,
+      "best_evidence": {
+        "text": "",
+        "url": "",
+        "entailment": 0.0
+      },
+      "citation_check": "NOT_APPLICABLE",
+      "citation_override": false,
+      "nli_details": []
+    },
+    {
+      "claim_id": "claim_3",
+      "claim_text": "Thompson v. Western Medical Center (2019) is a real legal case decided by the Ninth Circuit",
+      "source_sentence": "This principle was further reinforced in Thompson v. Western Medical Center (2019), where the Ninth Circuit held that patient consent requirements in federal healthcare facilities must follow analogous disclosure standards.",
+      "verdict": "CONTRADICTED",
+      "faithfulness_score": 0.0,
+      "best_evidence": {
+        "text": "",
+        "url": "",
+        "entailment": 0.0
+      },
+      "citation_check": "NOT_FOUND",
+      "citation_override": true,
+      "nli_details": []
+    },
+    {
+      "claim_id": "claim_4",
+      "claim_text": "In Thompson v. Western Medical Center (2019), the Ninth Circuit held that patient consent requirements in federal healthcare facilities must follow analogous disclosure standards",
+      "source_sentence": "This principle was further reinforced in Thompson v. Western Medical Center (2019), where the Ninth Circuit held that patient consent requirements in federal healthcare facilities must follow analogous disclosure standards.",
+      "verdict": "INSUFFICIENT_EVIDENCE",
+      "faithfulness_score": 0.0,
+      "best_evidence": {
+        "text": "",
+        "url": "",
+        "entailment": 0.0
+      },
+      "citation_check": "NOT_APPLICABLE",
+      "citation_override": false,
+      "nli_details": []
+    },
+    {
+      "claim_id": "claim_5",
+      "claim_text": "Brown v. Board of Education (1954) is a real legal case decided by the Supreme Court",
+      "source_sentence": "The Court in Brown v. Board of Education (1954) unanimously declared that racial segregation in public schools violated the Equal Protection Clause of the Fourteenth Amendment.",
+      "verdict": "INSUFFICIENT_EVIDENCE",
+      "faithfulness_score": 0.0,
+      "best_evidence": {
+        "text": "",
+        "url": "",
+        "entailment": 0.0
+      },
+      "citation_check": "FOUND",
+      "citation_override": false,
+      "nli_details": []
+    },
+    {
+      "claim_id": "claim_6",
+      "claim_text": "In Brown v. Board of Education (1954), the Supreme Court unanimously declared that racial segregation in public schools violated the Equal Protection Clause of the Fourteenth Amendment",
+      "source_sentence": "The Court in Brown v. Board of Education (1954) unanimously declared that racial segregation in public schools violated the Equal Protection Clause of the Fourteenth Amendment.",
+      "verdict": "INSUFFICIENT_EVIDENCE",
+      "faithfulness_score": 0.0,
+      "best_evidence": {
+        "text": "",
+        "url": "",
+        "entailment": 0.0
+      },
+      "citation_check": "NOT_APPLICABLE",
+      "citation_override": false,
+      "nli_details": []
+    },
+    {
+      "claim_id": "claim_7",
+      "claim_text": "Henderson v. Pacific Healthcare Group (2021) is a real legal case decided by the Seventh Circuit",
+      "source_sentence": "More recently, in Henderson v. Pacific Healthcare Group (2021), the Seventh Circuit established a three-part test for evaluating informed consent claims in telemedicine settings, requiring documented verbal confirmation, written acknowledgment, and digital timestamp verification.",
+      "verdict": "CONTRADICTED",
+      "faithfulness_score": 0.0,
+      "best_evidence": {
+        "text": "",
+        "url": "",
+        "entailment": 0.0
+      },
+      "citation_check": "NOT_FOUND",
+      "citation_override": true,
+      "nli_details": []
+    },
+    {
+      "claim_id": "claim_8",
+      "claim_text": "In Henderson v. Pacific Healthcare Group (2021), the Seventh Circuit established a three-part test for evaluating informed consent claims in telemedicine settings",
+      "source_sentence": "More recently, in Henderson v. Pacific Healthcare Group (2021), the Seventh Circuit established a three-part test for evaluating informed consent claims in telemedicine settings, requiring documented verbal confirmation, written acknowledgment, and digital timestamp verification.",
+      "verdict": "INSUFFICIENT_EVIDENCE",
+      "faithfulness_score": 0.0,
+      "best_evidence": {
+        "text": "",
+        "url": "",
+        "entailment": 0.0
+      },
+      "citation_check": "NOT_APPLICABLE",
+      "citation_override": false,
+      "nli_details": []
+    },
+    {
+      "claim_id": "claim_9",
+      "claim_text": "The three-part test established in Henderson v. Pacific Healthcare Group (2021) requires documented verbal confirmation, written acknowledgment, and digital timestamp verification",
+      "source_sentence": "More recently, in Henderson v. Pacific Healthcare Group (2021), the Seventh Circuit established a three-part test for evaluating informed consent claims in telemedicine settings, requiring documented verbal confirmation, written acknowledgment, and digital timestamp verification.",
+      "verdict": "INSUFFICIENT_EVIDENCE",
+      "faithfulness_score": 0.0,
+      "best_evidence": {
+        "text": "",
+        "url": "",
+        "entailment": 0.0
+      },
+      "citation_check": "NOT_APPLICABLE",
+      "citation_override": false,
+      "nli_details": []
+    },
+    {
+      "claim_id": "claim_10",
+      "claim_text": "Statistical analysis from the Stanford RegLab found that approximately 33% of AI-generated legal research contains at least one hallucinated citation",
+      "source_sentence": "Statistical analysis from the Stanford RegLab found that approximately 33% of AI-generated legal research contains at least one hallucinated citation.",
+      "verdict": "INSUFFICIENT_EVIDENCE",
+      "faithfulness_score": 0.0,
+      "best_evidence": {
+        "text": "",
+        "url": "",
+        "entailment": 0.0
+      },
+      "citation_check": "NOT_APPLICABLE",
+      "citation_override": false,
+      "nli_details": []
+    }
+  ],
+  "summary": {
+    "total_claims": 10,
+    "supported": 0,
+    "contradicted": 2,
+    "insufficient": 8,
+    "trust_score": 0.0
+  },
+  "processing_time_seconds": 30.62
+}

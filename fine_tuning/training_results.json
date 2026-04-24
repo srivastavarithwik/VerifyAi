@@ -1,0 +1,14 @@
+{
+  "base_model": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
+  "train_samples": 1600,
+  "val_samples": 400,
+  "training_loss": 7.9624169921875,
+  "metrics": {
+    "train_runtime": 1365.2127,
+    "train_samples_per_second": 3.516,
+    "train_steps_per_second": 0.879,
+    "total_flos": 2236657928601600.0,
+    "train_loss": 7.9624169921875,
+    "epoch": 3.0
+  }
+}
